@@ -1,0 +1,13 @@
+Assignment #4 Documentation
+1.	Character/Background Choices
+a.	Character: A character known as Igris from the animated series Solo Leveling. I chose this character because he had a unique and cool design that fit the adventure type vibe of my game.
+b.	Background: A cave with dripstone like platforms. I chose this background as it created a sense of ambience when exploring more of my world.
+2.	Tool usage with explanation
+a.	Piskel.com: I used this website to create my sprites/background images as they provided a fully customizable color wheel and had features like fill and image imports to make some design processes easier and more aesthetic.
+b.	Color gradiation: used a mix of similar colours with varying shades to add the affect of depth to my background, platform, and character
+3.	How I exported/Imported assets into unity
+a.	After I was done modeling my sprites I exported them from piskel under a spritesheet file export. 
+b.	I then moved these files to a folder to ensure accountability for all of my sprites and to keep track of progress
+c.	After that I simply dragged these sprites from their file location into my unity project.
+4.	Did I face any challenges? If so, how did I solve them
+a.	Initially I wasn’t sure how to change the resolution, but after asking around and clicking on every other button, I finally clicked on the scale feature and was able to change the resolution of my sprites.
